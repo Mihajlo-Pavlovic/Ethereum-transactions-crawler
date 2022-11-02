@@ -1,4 +1,4 @@
-# Ethereum-transactions-crawlerEthereum Transactions Crawler
+Ethereum Transactions Crawler
 ---
 To run frontend you need to have trunk installed (https://trunkrs.dev/#install).
 Position in ether-crawler-app\frontend and run:
